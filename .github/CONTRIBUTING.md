@@ -9,6 +9,7 @@ Please be sure to follow the [Tailwind CSS Community Guidelines](https://github.
    - > Only has awesome items. Awesome lists are curations of the best, not everything. _— [Awesome Guidelines](https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md#requirements-for-your-awesome-list)_
 3. Unless specified otherwise below, an item must be added to the bottom of its emoji group.
 4. [`awesome-lint`](https://github.com/sindresorhus/awesome-lint) must be used before creating a pull request.
+5. Your project must not violate the [Tailwind brand usage guidelines](https://tailwindcss.com/brand#usage).
 
 ## Formats, Naming Conventions and Descriptions
 
@@ -77,10 +78,6 @@ Open-source projects that use Tailwind CSS can be featured in this category if y
 ## Learning
 
 Anything that is a material that can be used to better understand Tailwind CSS can be added here. Awesome blog posts, code samples, tutorials on any platform are welcome.
-
-## Apps & Websites
-
-Only **really awesome**, good-looking, preferably original websites, and ones that are not too similar to websites already on the list can be added. Do not use this section for advertising, and be aware that most websites will be refused, unless they are quite awesome.
 
 # Pull request and commits
 
